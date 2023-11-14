@@ -1,9 +1,6 @@
-package L14Vprofessor.view;
+package L14.view;
 
-import L14Vprofessor.model.Cidade;
-import L14Vprofessor.model.Importador;
-import L14Vprofessor.model.Pais;
-import L14Vprofessor.model.Estado;
+import L14.model.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 
