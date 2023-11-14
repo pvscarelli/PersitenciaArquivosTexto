@@ -1,4 +1,4 @@
-package L14Vprofessor.model;
+package L14.model;
 
 public class Estado {
 
